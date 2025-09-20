@@ -6,5 +6,5 @@ Hi! I'm a Haxe/C# programmer since 2022! I'm available for hire for your project
 
 ## My socials
 
-- Discord: @gimmesoda
+- Discord: @gimmesodapls
 - Telegram: @gimmesodapls
